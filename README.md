@@ -23,4 +23,5 @@ We use the `kreuzwerker/docker` Terraform provider to pull an image (Nginx) and 
 Check installation:
 
 terraform -version
+
 docker --version
